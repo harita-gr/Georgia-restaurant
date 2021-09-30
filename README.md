@@ -2,10 +2,12 @@
 
 > A restuarant website (SPA)
 
+![image](https://user-images.githubusercontent.com/61909695/135427892-9b2c22be-0c4c-4699-8e28-c49107ab2008.png)
+
 ---
 ### Built Using
 - HTML5
-- sASS
+- SASS
 ---
 ### Features
 - Responsive
@@ -20,5 +22,3 @@ Harita Ravindranath
 
 ---
 #####  :pushpin: Built as part of Udemy course by 'Code and Create'
-
-
