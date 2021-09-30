@@ -14,7 +14,7 @@
 
 ---
 ### Hosted at
-<https://harita-gr.github.io/GeorgiaRestaurant/>
+<https://harita-gr.github.io/Georgia-restaurant/>
 
 ---
 ### Author
